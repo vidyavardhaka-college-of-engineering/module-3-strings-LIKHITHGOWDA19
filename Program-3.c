@@ -18,16 +18,16 @@ int main() {
 	scanf("%s", a);
 	printf("Enter the second string : ");
 	scanf("%s", b);
-	for (i=0;i<20;i++ )                                                // Complete the code in for
+	for ( )                                                // Complete the code in for
            { 
-		c[i] =a[i] ;                                              //Complete the statement
+		c[i] = ;                                              //Complete the statement
 	}
-	for (i=0;i<20;i++ )                                                 // Complete the code in for
+	for ( )                                                 // Complete the code in for
            { 
-		c[i] = c[i]+b[i];                                              //Complete the statement
+		c[i] = ;                                              //Complete the statement
 		i++;
 	}
-	c[i]=a[i]+b[i];                                               //Complete the statement
+	c[i]= ;                                               //Complete the statement
 	printf("The concatenated string = %s", c);
 	return 0;
 }
