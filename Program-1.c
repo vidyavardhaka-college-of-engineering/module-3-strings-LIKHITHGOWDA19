@@ -13,7 +13,7 @@ int main()
 {
 char a[100]; //Declare the string
 printf("Enter a String: ");
-scanf("%d",a);//read the string from user
+scanf("%s",a);//read the string from user
 printf("the enterd string is %s",a);//Print the string
-return o;
+return 0;
 }
